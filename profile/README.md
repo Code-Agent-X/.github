@@ -17,7 +17,7 @@
 
 ## About
 
-**Code Agent X** is an open-source project for building websites.
+**Code Agent X** is a project for building websites.
 
 We are working on tools to design, build, and ship web pages more easily.
 

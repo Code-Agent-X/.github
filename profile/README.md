@@ -57,7 +57,7 @@ Update this table when adding repos (PR to `.github` only).
 ## Contributing
 
 1. Read [engineering-standards](https://github.com/Code-Agent-X/engineering-standards).
-2. For your repo: copy [COMPLIANCE.template.md](https://github.com/Code-Agent-X/engineering-standards/blob/master/docs/checklists/COMPLIANCE.template.md) to `docs/COMPLIANCE.md`.
+2. For your repo: copy [COMPLIANCE.template.md](https://github.com/Code-Agent-X/engineering-standards/blob/master/templates/COMPLIANCE.template.md) to `docs/COMPLIANCE.md`.
 3. Open a PR in **your** repository (docs/README changes are enough).
 
 Issues and pull requests are welcome in the handbook repo.

@@ -1,10 +1,30 @@
 # Code Agent X
 
-Organization building tools to design, build, and ship Japanese landing pages and related web experiences.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Code%20Agent%20X&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Japanese%20LP%20%26%20Website%20Builder&descAlignY=62&descAlign=50" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Code-Agent-X">
+    <img src="https://img.shields.io/github/followers/Code-Agent-X?style=for-the-badge&logo=github&color=2563EB" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Code-Agent-X/engineering-standards">
+    <img src="https://img.shields.io/badge/Standards-engineering--standards-0F172A?style=for-the-badge&logo=bookstack" alt="Engineering standards" />
+  </a>
+  <a href="https://github.com/Code-Agent-X?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-10+-2563EB?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+</p>
+
+---
+
+## About
+
+**Code Agent X** builds tools to design, build, and ship **Japanese landing pages** and related web experiences.
 
 **Engineering standards (read first):** [engineering-standards](https://github.com/Code-Agent-X/engineering-standards) — golden paths, Doppler, README shape, self-audit checklists.
 
-**New repositories:** use [org-template](https://github.com/Code-Agent-X/org-template) when available.
+**New repositories:** use [org-template](https://github.com/Code-Agent-X/org-template).
 
 ---
 
@@ -40,14 +60,26 @@ Update this table when adding repos (PR to `.github` only).
 ## Contributing
 
 1. Read [engineering-standards](https://github.com/Code-Agent-X/engineering-standards).  
-2. For your repo: copy [COMPLIANCE.template.md](https://github.com/Code-Agent-X/engineering-standards/blob/main/docs/checklists/COMPLIANCE.template.md) to `docs/COMPLIANCE.md`.  
+2. For your repo: copy [COMPLIANCE.template.md](https://github.com/Code-Agent-X/engineering-standards/blob/master/docs/checklists/COMPLIANCE.template.md) to `docs/COMPLIANCE.md`.  
 3. Open a PR in **your** repository (docs/README changes are enough).  
 
-Issues and discussions welcome in the handbook repo.
+Issues and pull requests are welcome in the handbook repo.
 
 ---
 
 ## Links
 
-- [GitHub organization](https://github.com/Code-Agent-X)
-- [Engineering standards](https://github.com/Code-Agent-X/engineering-standards)
+<p align="center">
+  <a href="https://github.com/Code-Agent-X">
+    <img src="https://img.shields.io/badge/GitHub-Code--Agent--X-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Code-Agent-X/engineering-standards">
+    <img src="https://img.shields.io/badge/Handbook-engineering--standards-2563EB?style=for-the-badge&logo=readthedocs" alt="Engineering standards" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" alt="Footer" />
+</p>

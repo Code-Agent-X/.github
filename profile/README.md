@@ -46,9 +46,7 @@
 | [jupiter-notebooks](https://github.com/Code-Agent-X/jupiter-notebooks)             | 📄        | Jupyter             | Colab / model notebooks                            |
 | [lp-agent-prototype](https://github.com/Code-Agent-X/lp-agent-prototype)           | 🟢        | —                   | JP website builder MVP (LP)                        |
 | [prompt-metadata-matcher](https://github.com/Code-Agent-X/prompt-metadata-matcher) | 🟢        | —                   | Prompt / metadata matching                         |
-| [template-gen](https://github.com/Code-Agent-X/template-gen)                       | ⏸️        | —                   | Template + metadata from raw websites              |
 | [agent-prototype](https://github.com/Code-Agent-X/agent-prototype)                 | ⏸️        | Python + TypeScript | LP coding agent prototype                          |
-| [sitegraph](https://github.com/Code-Agent-X/sitegraph)                             | ⏸️        | Node + React        | Archive, reconstruct, template extraction from LPs |
 | [vector-builder](https://github.com/Code-Agent-X/vector-builder)                   | ⏸️        | HTML / Python       | KB patterns and vector ingest                      |
 | [chroma-ui](https://github.com/Code-Agent-X/chroma-ui)                             | ⏸️        | TypeScript          | Chroma index explorer UI                           |
 

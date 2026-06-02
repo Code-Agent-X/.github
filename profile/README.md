@@ -35,22 +35,22 @@
 
 ## Repositories
 
-| Repository                                                                         | Stack               | Purpose                                            |
-| ---------------------------------------------------------------------------------- | ------------------- | -------------------------------------------------- |
-| [engineering-standards](https://github.com/Code-Agent-X/engineering-standards)     | Docs                | Org handbook, checklists, templates                |
-| [org-template](https://github.com/Code-Agent-X/org-template)                       | TS + Python         | Scaffold for new monorepos                         |
-| [.github](https://github.com/Code-Agent-X/.github)                                 | Docs                | Organization profile (this page)                   |
-|                                                                                    |                     |                                                    |
-| [docs](https://github.com/Code-Agent-X/docs)                                       | Notebooks / docs    | Shared project documentation                       |
-| [lp-agent-prototype](https://github.com/Code-Agent-X/lp-agent-prototype)           | —                   | JP website builder MVP (LP)                        |
-| [prompt-metadata-matcher](https://github.com/Code-Agent-X/prompt-metadata-matcher) | —                   | Prompt / metadata matching                         |
-| [template-gen](https://github.com/Code-Agent-X/template-gen)                       | —                   | Template + metadata from raw websites              |
-| [jupiter-notebooks](https://github.com/Code-Agent-X/jupiter-notebooks)             | Jupyter             | Colab / model notebooks                            |
-|                                                                                    |                     |                                                    |
-| [agent-prototype](https://github.com/Code-Agent-X/agent-prototype)                 | Python + TypeScript | LP coding agent prototype                          |
-| [sitegraph](https://github.com/Code-Agent-X/sitegraph)                             | Node + React        | Archive, reconstruct, template extraction from LPs |
-| [vector-builder](https://github.com/Code-Agent-X/vector-builder)                   | HTML / Python       | KB patterns and vector ingest                      |
-| [chroma-ui](https://github.com/Code-Agent-X/chroma-ui)                             | TypeScript          | Chroma index explorer UI                           |
+**Status:** 🟢 ongoing · ⏸️ paused · 📄 docs · 📋 template
+
+| Repository                                                                         | Status    | Stack               | Purpose                                            |
+| ---------------------------------------------------------------------------------- | --------- | ------------------- | -------------------------------------------------- |
+| [engineering-standards](https://github.com/Code-Agent-X/engineering-standards)     | 📄        | Docs                | Org handbook, checklists, templates                |
+| [org-template](https://github.com/Code-Agent-X/org-template)                       | 📋        | TS + Python         | Scaffold for new monorepos                         |
+| [.github](https://github.com/Code-Agent-X/.github)                                 | 📄        | Docs                | Organization profile (this page)                   |
+| [docs](https://github.com/Code-Agent-X/docs)                                       | 📄        | Notebooks / docs    | Shared project documentation                       |
+| [jupiter-notebooks](https://github.com/Code-Agent-X/jupiter-notebooks)             | 📄        | Jupyter             | Colab / model notebooks                            |
+| [lp-agent-prototype](https://github.com/Code-Agent-X/lp-agent-prototype)           | 🟢        | —                   | JP website builder MVP (LP)                        |
+| [prompt-metadata-matcher](https://github.com/Code-Agent-X/prompt-metadata-matcher) | 🟢        | —                   | Prompt / metadata matching                         |
+| [template-gen](https://github.com/Code-Agent-X/template-gen)                       | ⏸️        | —                   | Template + metadata from raw websites              |
+| [agent-prototype](https://github.com/Code-Agent-X/agent-prototype)                 | ⏸️        | Python + TypeScript | LP coding agent prototype                          |
+| [sitegraph](https://github.com/Code-Agent-X/sitegraph)                             | ⏸️        | Node + React        | Archive, reconstruct, template extraction from LPs |
+| [vector-builder](https://github.com/Code-Agent-X/vector-builder)                   | ⏸️        | HTML / Python       | KB patterns and vector ingest                      |
+| [chroma-ui](https://github.com/Code-Agent-X/chroma-ui)                             | ⏸️        | TypeScript          | Chroma index explorer UI                           |
 
 Update this table when adding repos (PR to `.github` only).
 
